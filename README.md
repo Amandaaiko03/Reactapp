@@ -16,5 +16,6 @@ Uma aplicação simples de login feita com **React**, com design moderno e minim
 ## 📷 Tela de Login
 
 <img src="./print-login.png" alt="Tela de login" width="400"/>
+<img src="./print-login-acessado.png" alt="Tela de login" width="400"/>
 
 
